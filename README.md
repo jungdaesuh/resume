@@ -16,6 +16,10 @@
 
 - 배운 기술: HTML/CSS/JS(JQuery), Python/Flask, Java/Spring, MongoDB, MySQL, AWS EC2, EB, S3, CloudFront, Docker, Kubernetes
 
+- “매일 공부하는 컴퓨터 싸이언스” CS 스터디 운영
+    - 15명 이상 참가
+
+
 
 
 # 소프트스킬
@@ -59,6 +63,19 @@
 
 - The University of Iowa (미국) 2009 ~ 2010
   - 생물학
+
+
+
+# 기타
+- 부트캠프 중 한글로는 검색해도 잘 나오지 않는 내용을, 영문으로 검색하여 찾아서 동기들에게 자료를 공유하여, 에러 해결에 기여를 함.
+  - [https://fusiondeveloper.tistory.com/31](https://fusiondeveloper.tistory.com/31)
+  - [https://fusiondeveloper.tistory.com/65](https://fusiondeveloper.tistory.com/65)
+  - [https://fusiondeveloper.tistory.com/91](https://fusiondeveloper.tistory.com/91)
+ 
+- 구글 비밀 채용 과정인 Foobar Challenge에 초청 받음.
+  - 구글 검색창에 검색하는 단어에 따라서 초청 받게 되는데, 5개의 문제가 주어짐. 3문제 이상 풀면 이력서를 제출할 수 있음.
+  - 현재 1문제 푼 상태임.
+  - [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
 
 
 
