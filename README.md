@@ -81,8 +81,3 @@
   - [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
 
 
-
-
-# 시험 성적
-- 토익 990
-- 미국 로스쿨 시험 (LSAT) (논리/추론/독해) 164/180 (백분위 89%)
