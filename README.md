@@ -62,15 +62,18 @@
   * 한국에서 일어난 중요한 일, 특히 한미 동맹 관계와 남북한의 관계 월별로 연표 작성
 </details>
 
-- 국제전략문제연구소 (Center for Strategic and International Studies), 워싱턴 DC, 인턴
-  - 
+<details>
+  <summary>미 하원의회 러스 칼나한(Russ Carnahan) 하원의원 사무실, 워싱턴 DC, 인턴</summary>
+  
+  * 의원 청문회 발표 초고 작성 및 관련 자료 찾기: 2012년 9월 이집트 카이로 미 대사관 시위 관련 사건 및 여러 외교관련 사건들
+</details>
 
-- 미 하원의회 러스 칼나한(Russ Carnahan) 하원의원 사무실, 워싱턴 DC, 인턴
-  - 의원 청문회 발표 초고 작성 및 관련 자료 찾기: 2012년 9월 이집트 카이로 미 대사관 시위 관련 사건 및 여러 외교관련 사건들
+<details>
+  <summary>매넷, 펠프스, 필립스 법률사무소 (Manatt, Phelps, and Phillips, LLP) 연방정부정책 부서, 인턴</summary>
+  
+  * 상원/하원 법안 모니터 및 자료 찾기 - 2012 교통법안, 정책보조금관련법안(포크배럴), 2012 농업법
+</details>
 
-
-- 매넷, 펠프스, 필립스 법률사무소 (Manatt, Phelps, and Phillips, LLP) 연방정부정책 부서, 인턴
-  - 상원/하원 법안 모니터 및 자료 찾기 - 2012 교통법안, 정책보조금관련법안(포크배럴), 2012 농업법
 
 
 
