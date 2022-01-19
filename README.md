@@ -17,8 +17,8 @@
 
 ### *<ins>스파르타코딩클럽 내일배움캠프 클라우드 기반 백엔드 과정 (2021.09.13 ~ 2022.01.07)</ins>*
 - 프로젝트: [운동 SNS](https://github.com/heart-muscle/heart-muscle-backend)
-  - 사용기술: 
-    - HTML/CSS/JS(JQuery), Java/Spring, JPA, AWS EB, RDS(MySQL), Docker, S3, CloudFront
+  - 사용기술: HTML/CSS/JS(JQuery), Java/Spring, JPA, AWS EB, RDS(MySQL), Docker, S3, CloudFront
+  - 아키텍쳐: Front-Back Decoupled Architecture
   - 역할: 프로젝트 리드
 
 - 프로젝트: [운동 추천 서비스](https://github.com/heart-muscle/heart-muscle-flask)
