@@ -1,10 +1,8 @@
-"상위권 로스쿨에서 개발자로"
-
 # 서정대
 - E-mail: jungdaesuh1221@gmail.com
 - 블로그: https://fusiondeveloper.tistory.com
 
-# 최상위 로스쿨 지망생에서 개발자로 전향 하게 된 이유
+# 로스쿨 지망생에서 개발자로 전향 하게 된 이유
 - 2017년 개발자 친구와 식사하며 IT산업에 관심을 가지게 됨.
 - [AI 변호사 vs 인간 기사](http://www.lec.co.kr/news/articleView.html?idxno=712459)를 읽고 IT업계에 언젠가는 일해야 겠다고 생각, [2021년 변호사 비용 100억 절감 기사](https://www.bloomberg.com/news/articles/2021-10-22/morgan-stanley-s-robot-libor-lawyers-saved-50-000-hours-of-work)를 읽고 개발자 되기로 결심.
 - 자동화와 내가 생각한 논리와 서비스를 구현하는 매력에 빠짐. 
@@ -86,14 +84,21 @@
 
 
 # 기타
-- 부트캠프 중 한글로는 검색해도 잘 나오지 않는 내용을, 영문으로 검색하여 찾아서 동기들에게 자료를 공유하여, 에러 해결에 기여를 함.
-  - [https://fusiondeveloper.tistory.com/31](https://fusiondeveloper.tistory.com/31)
-  - [https://fusiondeveloper.tistory.com/65](https://fusiondeveloper.tistory.com/65)
-  - [https://fusiondeveloper.tistory.com/91](https://fusiondeveloper.tistory.com/91)
- 
-- 구글 비밀 채용 과정인 Foobar Challenge에 초청 받음.
-  - 구글 검색창에 검색하는 단어에 따라서 초청 받게 되는데, 5개의 문제가 주어짐. 3문제 이상 풀면 이력서를 제출할 수 있음.
-  - 현재 1문제 푼 상태임.
-  - [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
+<details>
+  <summary>부트캠프 중 한글로는 검색해도 잘 나오지 않는 내용을, 영문으로 검색하여 찾아서 동기들에게 자료를 공유하여, 에러 해결에 기여를 함.</summary>
+  
+  * [https://fusiondeveloper.tistory.com/31](https://fusiondeveloper.tistory.com/31)
+  * [https://fusiondeveloper.tistory.com/65](https://fusiondeveloper.tistory.com/65)
+  * [https://fusiondeveloper.tistory.com/91](https://fusiondeveloper.tistory.com/91)
+</details>
+
+<details>
+  <summary>구글 비밀 채용 과정인 Foobar Challenge에 초청 받음.</summary>
+  
+  * 구글 검색창에 검색하는 단어에 따라서 초청 받게 되는데, 5개의 문제가 주어짐. 3문제 이상 풀면 이력서를 제출할 수 있음.
+  * 현재 1문제 푼 상태임.
+  * [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
+</details>
+
 
 
