@@ -3,6 +3,7 @@
 - 블로그: https://fusiondeveloper.tistory.com
 
 # 핵심역량
+- 영문으로 작성된 최신 기술을 도입할 수 있음. 
 - REST API 구현. 예) @PutMapping("/qna/{qnaId}/comment/{commentId}")
 - 통역장교를 비롯해 다양한 사회 경험을 지녀, 지금까지 적응하지 못한 조직이 없는, 신속히 아웃풋을 낼 수 있는 개발자 (수정 중)
 
