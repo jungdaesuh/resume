@@ -18,8 +18,6 @@
 - 프로젝트: [운동 추천 서비스](https://github.com/heart-muscle/heart-muscle-flask)
   - 사용기술: HTML/CSS/JS(JQuery), Python/Flask, MongoDB, AWS EC2, S3
 
-- 배운 기술: HTML/CSS/JS(JQuery), Python/Flask, Java/Spring, MongoDB, MySQL, AWS EC2, EB, S3, CloudFront, Docker, Kubernetes
-
 - “매일 공부하는 컴퓨터 싸이언스” CS 스터디 운영
   - 15명 이상 참가
 
