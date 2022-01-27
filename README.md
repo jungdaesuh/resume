@@ -1,15 +1,9 @@
-# 문제해결의 끝판왕 백엔드 엔지니어 
+# 서정대
 - E-mail: jungdaesuh1221@gmail.com
 - 블로그: https://fusiondeveloper.tistory.com
 
-# 로스쿨 지망생에서 개발자로 전향 하게 된 이유
-- 2017년 개발자 친구와 식사하며 IT산업에 관심을 가지게 됨.
-- [AI 변호사 vs 인간 기사](http://www.lec.co.kr/news/articleView.html?idxno=712459)를 읽고 IT업계에 언젠가는 일해야 겠다고 생각, [2021년 변호사 비용 100억 절감 기사](https://www.bloomberg.com/news/articles/2021-10-22/morgan-stanley-s-robot-libor-lawyers-saved-50-000-hours-of-work)를 읽고 개발자 되기로 결심.
-- 자동화와 내가 생각한 논리와 서비스를 구현하는 매력에 빠짐. 
-- 언젠가는 직접 제품/서비스를 개발하여 창업할 생각. 
-
 # 핵심역량
-- 북미권 거주 경력 11년, 네이티브 영어 개발자
+- 북미권 거주 경력 11년, 해외에서 새롭게 나온 기술 도입하는데 도움을 
 - REST API 구현. 예) @PutMapping("/qna/{qnaId}/comment/{commentId}")
 - 통역장교를 비롯해 다양한 사회 경험을 지녀, 지금까지 적응하지 못한 조직이 없는, 신속히 아웃풋을 낼 수 있는 개발자 (수정 중)
 
@@ -100,6 +94,12 @@
   * 현재 1문제 푼 상태임.
   * [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
 </details>
+
+# 로스쿨 지망생에서 개발자로 전향 하게 된 이유
+- 2017년 개발자 친구와 식사하며 IT산업에 관심을 가지게 됨.
+- [AI 변호사 vs 인간 기사](http://www.lec.co.kr/news/articleView.html?idxno=712459)를 읽고 IT업계에 언젠가는 일해야 겠다고 생각, [2021년 변호사 비용 100억 절감 기사](https://www.bloomberg.com/news/articles/2021-10-22/morgan-stanley-s-robot-libor-lawyers-saved-50-000-hours-of-work)를 읽고 개발자 되기로 결심.
+- 자동화와 내가 생각한 논리와 서비스를 구현하는 매력에 빠짐. 
+- 언젠가는 직접 제품/서비스를 개발하여 창업할 생각. 
 
 
 
