@@ -1,15 +1,17 @@
 # 서정대
+
+## Contact
 - E-mail: jungdaesuh1221@gmail.com
 - 블로그: https://fusiondeveloper.tistory.com
 
-# 핵심역량
+## 핵심역량
 - 영문으로 작성된 최신 기술을 도입할 수 있음. 
 - REST API 구현. 예) @PutMapping("/qna/{qnaId}/comment/{commentId}")
 - 통역장교를 비롯해 다양한 사회 경험을 지녀, 지금까지 적응하지 못한 조직이 없는, 신속히 아웃풋을 낼 수 있는 개발자 (수정 중)
 
-# 개발경력
+## 개발경력
 
-### *<ins>스파르타코딩클럽 내일배움캠프 클라우드 기반 백엔드 과정 (2021.09.13 ~ 2022.01.07)</ins>*
+#### *<ins>스파르타코딩클럽 내일배움캠프 클라우드 기반 백엔드 과정 (2021.09.13 ~ 2022.01.07)</ins>*
 - 프로젝트: [운동 SNS](https://github.com/heart-muscle/heart-muscle-backend)
   - 사용기술: HTML/CSS/JS(JQuery), Java/Spring, JPA, AWS EB, RDS(MySQL), Docker, S3, CloudFront
   - 아키텍쳐: Front-Back Decoupled Architecture
@@ -24,14 +26,14 @@
 
 
 
-# 소프트스킬
-### *<ins>리더십/팔로워십</ins>*
+## 소프트스킬
+#### *<ins>리더십/팔로워십</ins>*
 - 해군: 학사장교 117기 동기회장, 통역병 분대장
 - 2018 평창올림팀: 언어서비스 자원봉사팀장 (매니저가 저의 역할을 보고 리더의 중요성을 알게 되셨다고 평가함) 
 
 
 
-### *<ins>소통 능력</ins>*
+#### *<ins>소통 능력</ins>*
 <details>
   <summary>대한민국 해군, 통역장교 (중위) 2014 ~ 2017</summary>
   
@@ -42,7 +44,7 @@
 </details>
 
 
-### *<ins>문서화 능력</ins>*
+#### *<ins>문서화 능력</ins>*
 <details>
   <summary>국제전략문제연구소 (Center for Strategic and International Studies), 워싱턴 DC, 인턴</summary>
   
@@ -67,7 +69,7 @@
 
 
 
-# 학력
+## 학력
 - Johns Hopkins University (미국) 2010 ~ 2013 (편입)
   - 철학 (경제학 부전공)
 
@@ -76,7 +78,7 @@
 
 
 
-# 기타
+## 기타
 <details>
   <summary>부트캠프 중 한글로는 검색해도 잘 나오지 않는 내용을, 영문으로 검색하여 찾아서 동기들에게 자료를 공유하여, 에러 해결에 기여를 함.</summary>
   
@@ -93,7 +95,7 @@
   * [https://fusiondeveloper.tistory.com/32](https://fusiondeveloper.tistory.com/32)
 </details>
 
-# 로스쿨 지망생에서 개발자로 전향 하게 된 이유
+## 로스쿨 지망생에서 개발자로 전향 하게 된 이유
 - 2017년 개발자 친구와 식사하며 IT산업에 관심을 가지게 됨.
 - [AI 변호사 vs 인간 기사](http://www.lec.co.kr/news/articleView.html?idxno=712459)를 읽고 IT업계에 언젠가는 일해야 겠다고 생각, [2021년 변호사 비용 100억 절감 기사](https://www.bloomberg.com/news/articles/2021-10-22/morgan-stanley-s-robot-libor-lawyers-saved-50-000-hours-of-work)를 읽고 개발자 되기로 결심.
 - 자동화와 내가 생각한 논리와 서비스를 구현하는 매력에 빠짐. 
